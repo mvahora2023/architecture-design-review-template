@@ -2,7 +2,7 @@
 
 A reusable, IEC 62443-based Architecture Design Review template for OT/IT integration projects at a regulated utility, plus a complete worked example, built for a fictional utility, **Keystone Gas & Electric**.
 
-> **Portfolio Disclosure:** Self-directed training project. "Keystone Gas & Electric" is fictional.
+> **Portfolio Disclosure:** Self-directed training project. "Keystone Gas & Electric" is fictional. The remote-access review is a worked example, not a record of approval or assessment of a real deployed system.
 
 ## What's in this repo
 
